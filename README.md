@@ -1,6 +1,6 @@
 Wszystkie modele pojazdów FiveM(GTA V)
 
-Bezpośrednik linka do modeli:
+Bezpośredni link do modeli:
 
 https://raw.githubusercontent.com/PopekPL/fivemcarimagegarage/refs/heads/main/TU_MODEL_AUTA.webp
 Tu gdzie pisze TU_MODEL_AUTA wstaw model auta np adder
